@@ -1,0 +1,13 @@
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.deps.json
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.runtimeconfig.json
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.runtimeconfig.dev.json
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.dll
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.csproj.CoreCompileInputs.cache
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.RazorAssemblyInfo.cache
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.RazorAssemblyInfo.cs
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.AssemblyInfoInputs.cache
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.AssemblyInfo.cs
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.RazorTargetAssemblyInfo.cache
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.pdb
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.dll
+C:\Users\pepi\source\repos\WebApiApp\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.pdb
